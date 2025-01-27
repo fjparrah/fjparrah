@@ -1,16 +1,16 @@
-## Hi there 👋 Francisco Parra Resume
-
+## Hi there 👋 This is a Francisco Parra Resume
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Hello+World!;Bienvenido+a+mi+perfil+de+GitHub!;Innovación+y+Análisis+de+Datos!" />
 </p>
-
 **Especialista en Innovación, Análisis de Datos y Logística**  
-[LinkedIn](https://linkedin.com/in/franciscojavier) | [GitHub](https://github.com/franciscojavier) | [Email](mailto:franciscojavier@example.com)  
+
+[LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
+<p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
-
+</p>
 ---
 
 ## 💼 **Experiencia Profesional**  
@@ -31,47 +31,63 @@
 
 ## 📚 **Educación**  
 
-**Ingeniería en Logística y Transporte**  
-Universidad de Santiago de Chile (2013 - 2017)  
+**Magister en Innovación**  
+Pontificia Universidad Catolica de Chile (2021 - 2023) 
+
+**Diplomado en Logística**  
+Pontificia Universidad Catolica de Chile (2016 - 2017) 
+
+**Ingeniería Civil Industrial**  
+Universidad del Mar (2010 - 2013) 
+
+**Ingeniería Civil en Informática**  
+Pontificia Universidad Catolica de Chile (2003 - 2009) 
 
 Certificaciones relevantes:  
-- **Data Science Professional Certificate** - IBM (2022)  
-- **Especialización en Power BI** - Microsoft (2021)  
-
+- **Desarrollador FullStack** - 4 Geeks Academy (2023)  
+- **SCRUM Master** - AgileChile (2023)
+- **Design Thinking** - AgileChile (2022)
+- **SQL para analisis de datos** - Desafio LATAM (2022)
+- **Data Analys** - Coderhouse (2022)
+- **Coaching en comunicación y liderazgo** - SpeakerCoach (2022)
+- **Inglés Intermedio, niveles B2 al I4** - Instituto Chileno-norteamericano La Serena (2020 2021)
+  
 ---
 
 ## 🛠️ **Habilidades Técnicas**  
-- **Lenguajes:** Python, SQL, R  
+- **Lenguajes:** Python, SQL, R,  Javascript, React
 - **Herramientas:** Power BI, Tableau, Excel avanzado  
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
-- **Metodologías:** Agile, Lean Logistics  
+- **Metodologías:** Agile, Lean Startup, Running Lean, Design Thinking  
 
 ---
 
 ## 🚀 **Proyectos Destacados**  
 
-### **Optimización de Logística de Entregas**  
-- Diseñé un modelo de análisis predictivo para optimizar rutas, reduciendo tiempos de entrega en un 15%.  
-- Código disponible en GitHub: [Optimización de Rutas](https://github.com/franciscojavier/optimizacion-rutas).  
+### ** Star Wars API **  
+- Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
+- Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars).  
 
-### **Dashboard de KPIs en Power BI**  
-- Creé un dashboard interactivo para monitorear métricas operativas en tiempo real.  
-- Incluye análisis de entregas fallidas, organización de flotas y logística inversa.  
+### ** Dashboard de KPIs en Power BI **  
+- Creé un dashboard interactivo para monitorear métricas de Finanzas y Logística un set de datos llamado Super Store de kaggle para aprobar el certificado de Data Analyst de CoderHouse .  
+- Incluye dashboard de Finzanzas, Logistica y Top 10.
+- Proyecto disponible en NovyPro: [Portfolio](https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200)
 
-### **Automatización de Reportes de Inventario**  
-- Desarrollé un script en Python para generar reportes automáticos de inventarios, reduciendo tiempos de generación en un 50%.  
-- Código disponible en GitHub: [Automatización de Inventarios](https://github.com/franciscojavier/inventarios-automation).  
+### ** Portafolio Vite en GITHUB **  
+- Adapte un template en Vite para portfolio 3D  
+- Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio).  
 
 ---
 
 ## 🌟 **Intereses**  
-- Innovación tecnológica en logística.  
+- Innovación tecnológica.  
 - Visualización de datos y storytelling.  
 - Desarrollo de soluciones basadas en datos para la toma de decisiones.  
 
 ---
 
 ¡No dudes en revisar mis proyectos y repositorios en GitHub para más detalles!  
+
 <!--
 **fjparrah/fjparrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

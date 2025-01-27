@@ -17,7 +17,8 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><img width="100%" src="https://www.youtube.com/watch?v=kqbWJ1R24DA"></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe></a><br><sup><strong>Website:</strong> GitHub Skyline</sup>
     <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
   </tr>
   <tr>

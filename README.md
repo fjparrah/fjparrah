@@ -28,7 +28,7 @@ Logros
 - Gestionar cartera de proyectos de innovación tecnológica, logrando la ejecución de 5 proyectos estratégicos con un retorno de inversión (ROI) del 120%.
 - Implementar metodología de marketing B2B y software CRM para la administración de las relaciones con los clientes.
 
-### **Líder de Área Comercial y Business Intelligence **  
+### **Líder de Área Comercial y Business Intelligence**  
 **Somacor Chile S.A.** (Enero 2023 - Febrero 2024)  
 - Supervisar y optimizar canales de atención, mejorando la experiencia de clientes tanto internos y como externos.
 - Dirigir el control de gestión documental, seguimiento de estados de pago, hojas de servicio y facturación.
@@ -70,7 +70,7 @@ Logros
 - Desarrollar manuales de gestión y videos instruccionales que disminuyó en un 60% la utilización de personal de capacitación a los nuevos colaboradores. 
 
 
-### **Encargado de Infraestructura TI **  
+### **Encargado de Infraestructura TI**  
 **Poder Judicial** (2009 - 2012)  
 
 Logros
@@ -114,16 +114,16 @@ Certificaciones relevantes:
 
 ## 🚀 **Proyectos Destacados**  
 
-### ** Star Wars API **  
+### **Star Wars API**  
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
 - Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars).  
 
-### ** Dashboard de KPIs en Power BI **  
+### **Dashboard de KPIs en Power BI**  
 - Creé un dashboard interactivo para monitorear métricas de Finanzas y Logística un set de datos llamado Super Store de kaggle para aprobar el certificado de Data Analyst de CoderHouse .  
 - Incluye dashboard de Finzanzas, Logistica y Top 10.
 - Proyecto disponible en NovyPro: [Portfolio](https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200)
 
-### ** Portafolio Vite en GITHUB **  
+### **Portafolio Vite en GITHUB**  
 - Adapte un template en Vite para portfolio 3D  
 - Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio).  
 

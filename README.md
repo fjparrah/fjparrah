@@ -12,34 +12,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
 </p>
-
-#### Creación de contenido:
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><p align="center">
-  <a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
-    <img width="100%" src="https://img.youtube.com/vi/kqbWJ1R24DA/0.jpg" alt="Video Demo">
-  </a>
- </p></a><sup><strong>Website:</strong> GitHub Skyline</sup>
-    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590949-3ce5dd7e-2a51-46da-973d-3375c91d8d3c.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
-    <td width="50%"><a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="100%" src="https://user-images.githubusercontent.com/121322/154591402-5c6e91c4-1d73-472b-b24d-ddae5220151e.png"></a><br><sup><strong>Hackathon:</strong> Hacktoberfest co-organizer</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
-    <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
-    <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
-  </tr>
-</table>
-
-#
-
 ---
 
 ## 💼 **Experiencia Profesional**  
@@ -163,6 +135,31 @@ Certificaciones relevantes:
 - Desarrollo de soluciones basadas en datos para la toma de decisiones.  
 
 ---
+
+#### Creación de contenido:
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><p align="center">
+  <a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
+    <img width="100%" src="https://img.youtube.com/vi/kqbWJ1R24DA/0.jpg" alt="Video Demo">
+  </a>
+ </p></a><sup><strong>Website:</strong> GitHub Skyline</sup>
+    <td width="50%"><a href="https://twitter.com/github/status/1306586113293729795"><img width="100%" src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif"></a><br><sup><strong>Product launch:</strong> GitHub CLI 1.0</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590949-3ce5dd7e-2a51-46da-973d-3375c91d8d3c.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>
+    <td width="50%"><a href="https://twitter.com/search?q=from%3Agithub%20hacktoberfest&src=typed_query"><img width="100%" src="https://user-images.githubusercontent.com/121322/154591402-5c6e91c4-1d73-472b-b24d-ddae5220151e.png"></a><br><sup><strong>Hackathon:</strong> Hacktoberfest co-organizer</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
+  </tr>
+</table>
+#
 
 ¡No dudes en revisar mis proyectos y repositorios en GitHub para más detalles!  
 

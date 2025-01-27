@@ -16,17 +16,66 @@
 
 ## 💼 **Experiencia Profesional**  
 
-### **Especialista en Logística y Análisis de Datos**  
-**Empresa XYZ** (Enero 2020 - Presente)  
-- Implementé sistemas de análisis de datos para optimizar entregas y logística inversa, reduciendo las entregas fallidas en un 20%.  
-- Automatización de reportes de inventarios utilizando Python y SQL, mejorando la precisión en un 30%.  
-- Lideré la redistribución de flotas de transporte, optimizando tiempos de descarga y rutas.  
+### **Líder de Innovación y Tecnología**  
+**Somacor Chile S.A.** (Marzo 2024 - Presente)  
+•	Desarrollar procesos de innovación en proyectos de Seguridad Industrial y Aseo Industrial dentro del sector minero, gestionando vinculación con startups, universidades y proveedores tecnológicos para la implementación de proyectos.
+•	Evaluar proyectos tecnológicos y licitaciones por montos superiores a $1MM USD, garantizando su alineación con los objetivos estratégicos de la empresa y las necesidades del cliente.
+•	Dirigir investigaciones sobre tecnologías y su aplicación en servicios, fortaleciendo la propuesta de valor de la empresa.
+•	Representar a la organización como consultor de innovación tecnológica para los principales clientes, ofreciendo soluciones personalizadas.
 
-### **Coordinador de Operaciones**  
-**Empresa ABC** (Junio 2017 - Diciembre 2019)  
-- Diseñé dashboards en Power BI para monitorear KPIs clave en tiempo real.  
-- Analicé datos de movilidad y entregas para implementar mejoras en la distribución logística.  
-- Supervisé la categorización y organización de inventarios en centros de distribución.  
+Logros
+•	Desarrollar solución tecnológica para la gestión de fallas y mantenimiento para equipos mineros aumentando la continuidad operacional en un 50%
+•	Gestionar cartera de proyectos de innovación tecnológica, logrando la ejecución de 5 proyectos estratégicos con un retorno de inversión (ROI) del 120%. 
+•	Implementar metodología de marketing B2B y software CRM para la administración de las relaciones con los clientes.
+
+### **Líder de Área Comercial y Business Intelligence **  
+**Somacor Chile S.A.** (Enero 2023 - Febrero 2024)  
+•	Supervisar y optimizar canales de atención, mejorando la experiencia de clientes tanto internos y como externos.
+•	Dirigir el control de gestión documental, seguimiento de estados de pago, hojas de servicio y facturación.
+•	Desarrollar y mantener sistema de información para el seguimiento y control de contratos.
+•	Implementar proyectos de BI en áreas clave (comercial, operativa y RR.HH.), impulsando decisiones estratégicas.
+•	Proponer KPIs para la gestión documental y comercial, y elaboré reportes semanales sobre estados de pago, facturación y proyecciones de ingresos.
+
+Logros
+•	Asegurar la entrega de estados de pago y documentación a tiempo a mandantes de un 74% a un 98%.
+•	Gestionar la recepción a tiempo de hojas de servicios del 83% al 97%, reduciendo retrasos en emisión de facturas de 5 días a 1 día.
+•	Supervisar el ingreso de información pendiente y vencida de colaboradores en TALANA, evitando multas y problemas contractuales.
+•	Desarrollar informes automatizados acelerando la toma de decisiones y reduciendo el riesgo de fallas en estados de pago y facturación en un 98%
+
+### **Jefe Operaciones HUB de distribución Coquimbo**  
+**Starken** (2020 - 2022)  
+•	Controlar las operaciones en HUB de Distribución de 3.500 m2, aasegurando la cadena de distribución de más de 70.000 entregas a domicilio por mes, con más de 120 personas a cargo.
+•	Dirigir y gestionar las relaciones con proveedores de transporte externos.
+•	Controlar y auditar procesos de Inventario, Logística inversa y control de gestión. 
+
+Logros
+•	Dirigir la implementación de aplicación de Ruteo (Circuit) que permitió disminuir en 10% el tiempo en ruta de los móviles, aumentando la eficiencia de entrega en 5%. 
+•	Desarrollar e implementar sistema de análisis de datos en Power BI para inventario, análisis de carga sin movimiento e incidencias que permite la revisión diaria de estado de carga, disminuyendo la perdida y merma en un 90%.
+
+
+### **Jefe Agencias de Carga Coquimbo, La Serena y Vicuña**  
+**Starken** (2017 - 2020)  
+
+Logros
+•	Establecer procedimientos para clientes E-commerce vía formularios (google form) para procesamiento masivo de envíos disminuyendo en un 30% el tiempo de procesamiento de carga.
+•	Implementar dashboard operativo/táctico en PowerBi aumentando la eficiencia operacional en un 15%.
+•	Desarrollar sistema de control en PowerBI, para la planificación de mantenciones preventivas y correctivas de móviles de reparto aumentando su tiempo de operación en un 20%.
+
+
+### **Jefe de Agencias de Carga La Serena**  
+**Starken** (2012 - 2017)  
+
+Logros
+•	Implementar sistema de bodegas en agencias que aumento en un 50% los tiempos de ubicación de productos y entregas a clientes.
+•	Desarrollar manuales de gestión y videos instruccionales que disminuyó en un 60% la utilización de personal de capacitación a los nuevos colaboradores. 
+
+
+### **Encargado de Infraestructura TI **  
+**Poder Judicial** (2009 - 2012)  
+
+Logros
+•	Diseño, desarrollo y mantenimiento de aplicación informática con lenguaje PHP y base de datos MySQL para el control de insumos y materiales de bodega disminuyendo la perdida y merma de insumos en un 90%
+•	Diseño, desarrollo y mantenimiento de sistema de correspondencia interna en lenguaje PHP y base de datos MySQL. 
 
 ---
 

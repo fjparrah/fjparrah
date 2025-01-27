@@ -18,15 +18,15 @@
 
 ### **Líder de Innovación y Tecnología**  
 **Somacor Chile S.A.** (Marzo 2024 - Presente)  
-•	Desarrollar procesos de innovación en proyectos de Seguridad Industrial y Aseo Industrial dentro del sector minero, gestionando vinculación con startups, universidades y proveedores tecnológicos para la implementación de proyectos.
-•	Evaluar proyectos tecnológicos y licitaciones por montos superiores a $1MM USD, garantizando su alineación con los objetivos estratégicos de la empresa y las necesidades del cliente.
-•	Dirigir investigaciones sobre tecnologías y su aplicación en servicios, fortaleciendo la propuesta de valor de la empresa.
-•	Representar a la organización como consultor de innovación tecnológica para los principales clientes, ofreciendo soluciones personalizadas.
+- Desarrollar procesos de innovación en proyectos de Seguridad Industrial y Aseo Industrial dentro del sector minero, gestionando vinculación con startups, universidades y proveedores tecnológicos para la implementación de proyectos.
+- Evaluar proyectos tecnológicos y licitaciones por montos superiores a $1MM USD, garantizando su alineación con los objetivos estratégicos de la empresa y las necesidades del client
+- Dirigir investigaciones sobre tecnologías y su aplicación en servicios, fortaleciendo la propuesta de valor de la empresa.
+- Representar a la organización como consultor de innovación tecnológica para los principales clientes, ofreciendo soluciones personalizadas.
 
 Logros
-•	Desarrollar solución tecnológica para la gestión de fallas y mantenimiento para equipos mineros aumentando la continuidad operacional en un 50%
-•	Gestionar cartera de proyectos de innovación tecnológica, logrando la ejecución de 5 proyectos estratégicos con un retorno de inversión (ROI) del 120%. 
-•	Implementar metodología de marketing B2B y software CRM para la administración de las relaciones con los clientes.
+- Desarrollar solución tecnológica para la gestión de fallas y mantenimiento para equipos mineros aumentando la continuidad operacional en un 50%
+- Gestionar cartera de proyectos de innovación tecnológica, logrando la ejecución de 5 proyectos estratégicos con un retorno de inversión (ROI) del 120%.
+- Implementar metodología de marketing B2B y software CRM para la administración de las relaciones con los clientes.
 
 ### **Líder de Área Comercial y Business Intelligence **  
 **Somacor Chile S.A.** (Enero 2023 - Febrero 2024)  

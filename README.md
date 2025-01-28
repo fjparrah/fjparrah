@@ -159,7 +159,7 @@ Certificaciones relevantes:
  <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
     <td width="50%"><a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
   <a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
-    <img width="100%" src="https://img.youtube.com/vi/89YC1ya-D5k/0.jpg" alt="Video Demo">
+    <img width="100%" src="https://img.youtube.com/vi/nZkT9c49dF4/0.jpg" alt="Video Demo">
   </a>
  <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
   </tr>

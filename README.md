@@ -137,7 +137,7 @@ Certificaciones relevantes:
 
 ---
 
-#### Creación de contenido:
+## **Creación de contenido:**
 <table>
   <tr>
     <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><p align="center">

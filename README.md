@@ -113,7 +113,7 @@ Certificaciones relevantes:
 
 ---
 
-## 🚀 **Proyectos Destacados**  
+## 🚀 **Proyectos**  
 
 ### **Star Wars API**  
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  

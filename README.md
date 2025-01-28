@@ -12,6 +12,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
 </p>
+
 ---
 
 ## 💼 **Experiencia Profesional**  
@@ -159,9 +160,8 @@ Certificaciones relevantes:
     <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
   </tr>
 </table>
-#
 
-¡No dudes en revisar mis proyectos y repositorios en GitHub para más detalles!  
+**¡No dudes en revisar mis proyectos y repositorios en GitHub para más detalles!**
 
 <!--
 **fjparrah/fjparrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

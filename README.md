@@ -149,14 +149,14 @@ Certificaciones relevantes:
   <a href="[https://www.youtube.com/watch?v=kqbWJ1R24DA](https://www.youtube.com/watch?v=89YC1ya-D5k)">
     <img width="100%" src="https://img.youtube.com/vi/89YC1ya-D5k/0.jpg" alt="Video Demo">
   </a>
- <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
+ <sup><strong>Video:</strong> Vuelo de drone, colorización, edicion de video y motion graphics</sup>
   </tr>
  <tr>
     <td width="50%"><a href="https://www.youtube.com/watch?v=3nmiS_BIjSo">
   <a href="https://www.youtube.com/watch?v=3nmiS_BIjSo">
     <img width="100%" src="https://img.youtube.com/vi/3nmiS_BIjSo/0.jpg" alt="Video Demo">
   </a>
- <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
+ <sup><strong>Video:</strong> Edición de motion graphics en Adobe After Effects, filmación, edición de video en Adobe Premiere</sup>
     <td width="50%"><a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
   <a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
     <img width="100%" src="https://img.youtube.com/vi/nZkT9c49dF4/0.jpg" alt="Video Demo">

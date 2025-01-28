@@ -140,7 +140,7 @@ Certificaciones relevantes:
 ## **Creación de contenido:**
 <table>
   <tr>
-    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA"><p align="center">
+    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
   <a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
     <img width="100%" src="https://img.youtube.com/vi/kqbWJ1R24DA/0.jpg" alt="Video Demo">
   </a>

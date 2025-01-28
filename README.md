@@ -144,12 +144,12 @@ Certificaciones relevantes:
   <a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
     <img width="100%" src="https://img.youtube.com/vi/kqbWJ1R24DA/0.jpg" alt="Video Demo">
   </a>
- <sup><strong>Video:</strong>Edicion de video y motion graphics</sup>
-    <td width="50%"><a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
-  <a href="https://www.youtube.com/watch?v=kqbWJ1R24DA">
-    <img width="100%" src="https://img.youtube.com/vi/kqbWJ1R24DA/0.jpg" alt="Video Demo">
+ <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=89YC1ya-D5k">
+  <a href="[https://www.youtube.com/watch?v=kqbWJ1R24DA](https://www.youtube.com/watch?v=89YC1ya-D5k)">
+    <img width="100%" src="https://img.youtube.com/vi/89YC1ya-D5k/0.jpg" alt="Video Demo">
   </a>
- <sup><strong>Video:</strong>Edicion de video y motion graphics</sup>
+ <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
   </tr>
   <tr>
     <td width="50%"><a href="https://twitter.com/github/status/1455272696577761289"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590949-3ce5dd7e-2a51-46da-973d-3375c91d8d3c.gif"></a><br><sup><strong>Game Jam:</strong> Game Off organizer + creative</sup></td>

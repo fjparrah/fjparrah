@@ -120,6 +120,14 @@ Certificaciones relevantes:
 
 ## 🚀 **Proyectos**  
 
+### **Portafolio en Wordpress**  
+- Diseñé una pagina personal tipo portfolio:  
+- Enlace: [francisco-parra.com](https://francisco-parra.com).  
+
+### **STARTUP No + Multas**  
+- Diseño de pagina web para MVP de No + Multas:  
+- Enlace: [nomultas.cl](https://www.nomultas.cl). 
+
 ### **Star Wars API**  
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
 - Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars).  

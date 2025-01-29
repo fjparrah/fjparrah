@@ -18,6 +18,7 @@
 ## 💼 **Curriculum Vitae**  
 
 <details>
+<summary>Presiona para ver el curriculum completo</summary>  
 ### **Líder de Innovación y Tecnología**  
 **Somacor Chile S.A.** (Marzo 2024 - Presente)  
 - Desarrollar procesos de innovación en proyectos de Seguridad Industrial y Aseo Industrial dentro del sector minero, gestionando vinculación con startups, universidades y proveedores tecnológicos para la implementación de proyectos.

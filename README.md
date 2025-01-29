@@ -122,15 +122,15 @@ Certificaciones relevantes:
 
 ### **Portafolio en Wordpress**  
 - Diseñé una pagina personal tipo portfolio:  
-- Enlace: [francisco-parra.com](https://francisco-parra.com).  
+- Enlace: [francisco-parra.com](https://francisco-parra.com)  
 
 ### **STARTUP No + Multas**  
 - Diseño de pagina web para MVP de No + Multas:  
-- Enlace: [nomultas.cl](https://www.nomultas.cl). 
+- Enlace: [nomultas.cl](https://www.nomultas.cl)
 
 ### **Star Wars API**  
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
-- Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars).  
+- Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars)
 
 ### **Dashboard de KPIs en Power BI**  
 - Creé un dashboard interactivo para monitorear métricas de Finanzas y Logística un set de datos llamado Super Store de kaggle para aprobar el certificado de Data Analyst de CoderHouse .  

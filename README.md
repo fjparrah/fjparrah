@@ -120,13 +120,13 @@ Certificaciones relevantes:
 
 ## 🚀 **Proyectos**  
 
-### **Portafolio en Wordpress**  
+### **Portfolio en Wordpress**  
 - Diseñé una pagina personal tipo portfolio:  
-- Enlace: [francisco-parra.com](https://francisco-parra.com)  
+- Enlace: [Francisco-parra.com](https://francisco-parra.com)  
 
 ### **STARTUP No + Multas**  
 - Diseño de pagina web para MVP de No + Multas:  
-- Enlace: [nomultas.cl](https://www.nomultas.cl)
+- Enlace: [Nomultas.cl](https://www.nomultas.cl)
 
 ### **Star Wars API**  
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
@@ -139,7 +139,7 @@ Certificaciones relevantes:
 
 ### **Portafolio Vite en GITHUB**  
 - Adapte un template en Vite para portfolio 3D  
-- Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio).  
+- Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio)
 
 ---
 

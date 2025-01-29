@@ -1,4 +1,4 @@
-## Hi there 👋 This is a Francisco Parra Resume
+## Hi there 👋 This is a Francisco Parra Profile
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Hello+World!;Bienvenido+a+mi+perfil+de+GitHub!;Innovación+y+Análisis+de+Datos!" />
 </p>

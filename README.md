@@ -118,19 +118,19 @@ Certificaciones relevantes:
 
 ---
 
-## **Creación de contenido:**
+## **Portfolio Power BI:**
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
   <a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
     <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/PowerBI%20tiendas.png" alt="Imagen">
   </a>
- <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
-    <td width="50%"><a href="https://www.youtube.com/watch?v=89YC1ya-D5k">
-  <a href="https://www.youtube.com/watch?v=89YC1ya-D5k">
-    <img width="100%" src="https://img.youtube.com/vi/89YC1ya-D5k/0.jpg" alt="Video Demo">
+ <sup><strong>PowerBI:</strong> Seguimiento financiero Tienda EmpowerTravel</sup>
+     <td width="50%"><a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
+  <a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
+    <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/PowerBI%20tiendas.png" alt="Imagen">
   </a>
- <sup><strong>Video:</strong> Vuelo de drone, colorización, edicion de video y motion graphics</sup>
+ <sup><strong>PowerBI:</strong> Seguimiento financiero Tienda EmpowerTravel</sup>
   </tr>
       <!--
  <tr>

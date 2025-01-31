@@ -9,10 +9,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
+ <!--
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
 </p>
-
+-->
 ---
 
 ## 💼 **Curriculum Vitae**  
@@ -145,8 +146,7 @@ Certificaciones relevantes:
   </a>
  <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
   </tr>
-  
-  <tr>
+    <tr>
     <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
     <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
   </tr>

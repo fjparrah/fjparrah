@@ -118,6 +118,47 @@ Certificaciones relevantes:
 
 ---
 
+## **Creación de contenido:**
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
+  <a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
+    <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/PowerBI%20tiendas.png" alt="Imagen">
+  </a>
+ <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=89YC1ya-D5k">
+  <a href="https://www.youtube.com/watch?v=89YC1ya-D5k">
+    <img width="100%" src="https://img.youtube.com/vi/89YC1ya-D5k/0.jpg" alt="Video Demo">
+  </a>
+ <sup><strong>Video:</strong> Vuelo de drone, colorización, edicion de video y motion graphics</sup>
+  </tr>
+      <!--
+ <tr>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=3nmiS_BIjSo">
+  <a href="https://www.youtube.com/watch?v=3nmiS_BIjSo">
+    <img width="100%" src="https://img.youtube.com/vi/3nmiS_BIjSo/0.jpg" alt="Video Demo">
+  </a>
+ <sup><strong>Video:</strong> Edición motion graphics en A. After Effects, filmación, edición de video en A. Premiere</sup>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
+  <a href="https://www.youtube.com/watch?v=nZkT9c49dF4">
+    <img width="100%" src="https://img.youtube.com/vi/nZkT9c49dF4/0.jpg" alt="Video Demo">
+  </a>
+ <sup><strong>Video:</strong> Edicion de video y motion graphics</sup>
+  </tr>
+  
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/1374087749234528260"><img width="100%" src="https://user-images.githubusercontent.com/121322/154590945-71e523eb-0b40-4781-88b6-6cc0b4195763.gif"></a><br><sup><strong>Creative:</strong> GitHub CTF</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://twitter.com/github/status/572862961850589184"><img width="100%" src="https://user-images.githubusercontent.com/121322/154597715-da89bb07-2a80-4974-8ded-7e1083be2ee2.gif"></a><br><sup><strong>Video:</strong> Epic Games & Unreal Engine on the 'Hub</sup></td>
+    <td width="50%"><a href="https://twitter.com/github/status/131433236306993152"><img width="100%" src="https://user-images.githubusercontent.com/121322/154594670-b51d40e1-5ecf-4ba5-8299-5ce602618648.png"></a><br><sup><strong>Engineer:</strong> GitHub Enterprise</sup></td>
+  </tr>
+      -->
+</table>
+
+---
+
 ## 🚀 **Proyectos**  
 
 ### **Portfolio en Wordpress**  

@@ -131,7 +131,7 @@ Certificaciones relevantes:
   <a href="https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200">
     <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/Superstore%20PBI.png" alt="Imagen">
   </a>
- <sup><strong>PowerBI:</strong> Seguimiento financiero Tienda EmpowerTravel</sup>
+ <sup><strong>PowerBI:</strong> Dashboard SuperStore</sup>
   </tr>
       <!--
  <tr>

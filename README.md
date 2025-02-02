@@ -173,11 +173,12 @@ Certificaciones relevantes:
 - Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
 - Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars)
 
+<!--
 ### **Dashboard de KPIs en Power BI**  
 - Creé un dashboard interactivo para monitorear métricas de Finanzas y Logística un set de datos llamado Super Store de kaggle para aprobar el certificado de Data Analyst de CoderHouse .  
 - Incluye dashboard de Finzanzas, Logistica y Top 10.
 - Proyecto disponible en NovyPro: [Portfolio](https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200)
-
+-->
 ### **Portafolio Vite en GITHUB**  
 - Adapte un template en Vite para portfolio 3D  
 - Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio)

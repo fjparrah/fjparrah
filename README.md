@@ -165,7 +165,7 @@ Certificaciones relevantes:
 - Diseñé una pagina personal tipo portfolio:  
 - Enlace: [Francisco-parra.com](https://francisco-parra.com)  
 
-### **STARTUP No + Multas**  
+### **Co Founder STARTUP No + Multas**  
 - Diseño de pagina web para MVP de No + Multas:  
 - Enlace: [Nomultas.cl](https://www.nomultas.cl)
 

@@ -9,14 +9,14 @@
 
 <p align="center">
 
-  ## 🚀 **Especialista en Innovación, Análisis de Datos y Operaciones**  
+  ## 🔭 **Especialista en Innovación, Análisis de Datos y Operaciones**  
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
 </p>
 
 <br> 
 
-## 🚀 **Lenguajes y herramientas:**  
+## ⚡ **Lenguajes y herramientas:**  
 
 
 Lenguajes de programación:
@@ -158,7 +158,7 @@ Certificaciones relevantes:
 
 ---
 
-## **Portfolio Power BI:**
+## 🌟 **Portfolio Power BI:**
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
@@ -236,7 +236,7 @@ Certificaciones relevantes:
 
 ---
 
-## 🌟 **Intereses**  
+## ✨ **Intereses**  
 - Innovación tecnológica.  
 - Visualización de datos y storytelling.  
 - Desarrollo de soluciones basadas en datos para la toma de decisiones.

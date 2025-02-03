@@ -5,13 +5,14 @@
 
 <br> 
 
-** 🚀 Especialista en Innovación, Análisis de Datos y Operaciones**  
+## 🚀 **Especialista en Innovación, Análisis de Datos y Operaciones**  
 
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
 <br> 
 
-<h4 align="left">Lenguajes y herramientas:</h4>
+## 🚀 **Lenguajes y herramientas:**  
+
 
 Lenguajes de programación:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)

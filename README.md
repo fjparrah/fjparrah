@@ -45,7 +45,7 @@ Software:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+<br> 
 <!--
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
@@ -154,6 +154,7 @@ Certificaciones relevantes:
 - **Metodologías:** Agile, Lean Startup, Running Lean, Design Thinking  
 
 </details>
+<br> 
 
 ---
 
@@ -206,7 +207,8 @@ Certificaciones relevantes:
   </tr>
       -->
 </table>
-
+<br> 
+       
 ---
 
 ## 🚀 **Proyectos**  

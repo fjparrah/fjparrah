@@ -238,7 +238,10 @@ Certificaciones relevantes:
 ## 🌟 **Intereses**  
 - Innovación tecnológica.  
 - Visualización de datos y storytelling.  
-- Desarrollo de soluciones basadas en datos para la toma de decisiones.  
+- Desarrollo de soluciones basadas en datos para la toma de decisiones.
+- Piloto de drone
+- Marketing Digital
+- Creación de contenido y producción audiovisual
 
 ---
 

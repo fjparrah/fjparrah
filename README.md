@@ -12,7 +12,7 @@
   
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
-<img src="./icons/LinkedIn.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/Gmail-Dark.svg" width="48"> 
+<img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/Gmail-Dark.svg" width="48"> 
 
 </p>
 

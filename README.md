@@ -1,4 +1,9 @@
 <!-- ## Hi there 👋 This is a Francisco Parra Profile -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.8.0/src/app/ci.min.css"
+/>
+
 <br> 
 
 <p align="center">

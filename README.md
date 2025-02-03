@@ -10,9 +10,9 @@
 
 ## 🔭 **Especialista en Innovación, Análisis de Datos y Operaciones**  
   
-[LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
+<!--[LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  -->
 
-<img a="https://www.linkedin.com/in/francisco-parra-hermosilla/" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="60"> | <img a="https://github.com/fjparrah/" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" width="60"> | <img a= "mailto:fjparrah@gmail.com" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" width="60"> 
+<img a="https://www.linkedin.com/in/francisco-parra-hermosilla/" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="60">  <img a="https://github.com/fjparrah/" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="60">  <img a= "mailto:fjparrah@gmail.com" src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" width="60"> 
 
 </p>
 

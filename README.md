@@ -234,6 +234,7 @@ Certificaciones relevantes:
 ### **Portafolio Vite en GITHUB**  
 - Adapte un template en Vite para portfolio 3D  
 - Código disponible en GitHub: [Portfolio](https://github.com/fjparrah/React-personal-portfolio)
+<br>
 
 ---
 
@@ -244,6 +245,7 @@ Certificaciones relevantes:
 - Piloto de drone
 - Marketing Digital
 - Creación de contenido y producción audiovisual
+<br>
 
 ---
 
@@ -284,7 +286,8 @@ Certificaciones relevantes:
   </tr>
       -->
 </table>
-
+<br> 
+      
 **¡No dudes en revisar mis proyectos y repositorios en GitHub para más detalles!**
 
 <!--

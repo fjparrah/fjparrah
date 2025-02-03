@@ -4,9 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Hello+World!;Bienvenido+a+mi+perfil+de+GitHub!;Innovación+y+Análisis+de+Datos!" />
 </p>
-<br> 
+
 <p align="center">
   ## 🔭 **Especialista en Innovación, Análisis de Datos y Operaciones**  
+  
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
 </p>

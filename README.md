@@ -175,9 +175,9 @@ Certificaciones relevantes:
          <tr>
     <td width="50%"><a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
   <a href="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store">
-    <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/PowerBI%20tiendas.png" alt="Imagen">
+    <img width="100%" src="https://github.com/user-attachments/assets/ab2f0504-31d6-4b8f-aabc-0637978822cd" alt="Imagen">
   </a>
- <sup><strong>PowerBI:</strong> Seguimiento financiero Tienda EmpowerTravel</sup>
+ <sup><strong>PowerBI:</strong> Seguimiento Gerencia de RRHH</sup>
      <td width="50%"><a href="https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200">
   <a href="https://www.novypro.com/profile_about/franciscoparra?Popup=memberProject&Data=1682116889675x145766686508100200">
     <img width="100%" src="https://github.com/fjparrah/PBI-Seguimiento-financiero-EmpowerTravel-Store/blob/main/Superstore%20PBI.png" alt="Imagen">

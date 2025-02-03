@@ -1,8 +1,4 @@
 <!-- ## Hi there 👋 This is a Francisco Parra Profile -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons/src/app/ci.min.css"
-/>
 
 <br> 
 
@@ -16,7 +12,7 @@
   
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
-<i class="ci ci-linkedin ci-5x"></i> <i class="ci ci-github ci-5x"></i> <i class="ci ci-mail ci-5x"></i>
+<img src="./icons/LinkedIn.svg" width="48"> <img src="./icons/Github-Dark.svg" width="48"> <img src="./icons/Gmail-Dark.svg" width="48"> 
 
 </p>
 

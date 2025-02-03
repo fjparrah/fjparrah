@@ -11,6 +11,8 @@
   
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
+<i class="ci ci-linkedin ci-5x"></i> <i class="ci ci-github ci-5x"></i> <i class="ci ci-mail ci-5x"></i>
+
 </p>
 
 <br> 

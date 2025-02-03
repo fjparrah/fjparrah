@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  ## 🔭 **Especialista en Innovación, Análisis de Datos y Operaciones**  
+## 🔭 **Especialista en Innovación, Análisis de Datos y Operaciones**  
   
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 

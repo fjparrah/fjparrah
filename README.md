@@ -26,6 +26,9 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="webpack" width="40" height="40"/> </a></p>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/user-attachments/assets/8138b220-63c4-4d07-86f1-8c77929155fa" alt="webpack" width="40" height="40"/> </a></p>
+
+![image]()
 
  <!--
 <p align="center">

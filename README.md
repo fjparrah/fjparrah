@@ -9,9 +9,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
-<h4 align="left">Lenguajes y herramientas:</h4>
-
 <br> 
+
+<h4 align="left">Lenguajes y herramientas:</h4>
 
 Lenguajes de programación:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)

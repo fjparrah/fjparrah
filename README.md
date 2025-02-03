@@ -3,11 +3,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Hello+World!;Bienvenido+a+mi+perfil+de+GitHub!;Innovación+y+Análisis+de+Datos!" />
 </p>
 
-**Especialista en Innovación, Análisis de Datos y Operaciones**  
+** 🚀 Especialista en Innovación, Análisis de Datos y Operaciones**  
 
 [LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/fjparrah/) | [Email](mailto:fjparrah@gmail.com)  
 
 <h4 align="left">Lenguajes y herramientas:</h4>
+
+Programming languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge)
+
+Web:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+Software:
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+<!--
 <p>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,7 +46,7 @@
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank"> <img src="https://github.com/user-attachments/assets/8138b220-63c4-4d07-86f1-8c77929155fa" alt="webpack" width="40" height="40"/> </a></p>
 
 
- <!--
+ 
 <p align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
 </p>

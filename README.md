@@ -228,7 +228,7 @@ Certificaciones relevantes:
 ## 🚀 **Proyectos**  
 
 ### **Portfolio en Wordpress**  
-- Diseñé una pagina personal tipo portfolio:  
+- Diseñé y desarrollé una página web personal tipo portafolio para presentar mis proyectos, habilidades y experiencia profesional en desarrollo web. 
 - Enlace: [Francisco-parra.com](https://francisco-parra.com)  
 
 ### **Co Founder STARTUP No + Multas**  

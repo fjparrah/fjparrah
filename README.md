@@ -236,7 +236,7 @@ Certificaciones relevantes:
 - Enlace: [Nomultas.cl](https://www.nomultas.cl)
 
 ### **Star Wars API**  
-- Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
+- Diseñé una página web que consume dos APIs: una para obtener información detallada de personajes del universo Star Wars y otra para recuperar sus fotografías. A partir de estos datos, la aplicación genera cartas visuales e interactivas de todos los personajes de las películas.
 - Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars)
 
 <!--
